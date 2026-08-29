@@ -1,0 +1,7 @@
+{
+
+  "scripts": {
+    "test": "cd test && python3 -m unittest",
+    "commit": "git commit -m \"$(date +'%Y-%m-%dT%H:%M')\""
+  }
+}
